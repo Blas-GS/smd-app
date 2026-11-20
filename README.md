@@ -1,1 +1,3 @@
-# smd-app
+## Author
+
+<your-github-username>
